@@ -161,6 +161,11 @@
       <code>static::$cityPrefix</code>
     </UndefinedPropertyFetch>
   </file>
+    <file src="src/Faker/Provider/ckb/Address.php">
+    <UndefinedPropertyFetch occurrences="1">
+      <code>static::$cityPrefix</code>
+    </UndefinedPropertyFetch>
+  </file>
   <file src="src/Faker/Provider/cs_CZ/Person.php">
     <NonStaticSelfCall occurrences="2">
       <code>static::birthNumber(static::GENDER_FEMALE)</code>

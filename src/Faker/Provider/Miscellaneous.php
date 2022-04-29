@@ -34,7 +34,7 @@ class Miscellaneous extends Base
     protected static $languageCode = [
         'aa', 'ab', 'ae', 'af', 'ak', 'am', 'an', 'ar', 'as', 'av',
         'ay', 'az', 'ba', 'be', 'bg', 'bh', 'bi', 'bm', 'bn', 'bo',
-        'br', 'bs', 'ca', 'ce', 'ch', 'co', 'cr', 'cs', 'cu', 'cv',
+        'br', 'bs', 'ca', 'ce', 'ch', 'ckb', 'co', 'cr', 'cs', 'cu', 'cv',
         'cy', 'da', 'de', 'dv', 'dz', 'ee', 'el', 'en', 'eo', 'es',
         'et', 'eu', 'fa', 'ff', 'fi', 'fj', 'fo', 'fr', 'fy', 'ga',
         'gd', 'gl', 'gn', 'gu', 'gv', 'ha', 'he', 'hi', 'ho', 'hr',
@@ -162,7 +162,7 @@ class Miscellaneous extends Base
         'kfo_CI', 'kk_KZ', 'kl_GL',
         'km_KH', 'kn_IN',
         'ko_KR', 'kok_IN', 'kpe_GN',
-        'kpe_LR', 'ku_IQ', 'ku_IR', 'ku_SY',
+        'kpe_LR', 'ckb', 'ku_IR', 'ku_SY',
         'ku_TR', 'kw_GB', 'ky_KG',
         'ln_CD', 'ln_CG', 'lo_LA',
         'lt_LT', 'lv_LV',
