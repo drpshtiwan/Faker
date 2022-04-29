@@ -6,7 +6,7 @@ class Color extends \Faker\Provider\Color
 {
     protected static $safeColorNames = [
         'ڕەش', 'چەرمسۆن', 'سەوز', 'شینی تۆخ', 'زەیتوون', 'ئەرخەوانی', 'سوور',
-        'لێمی', 'شین', 'زیوی', 'خۆڵەمێشی', 'زەرد', 'پرتەقاڵی', 'قاوەیی', 'سپی'
+        'لێمی', 'شین', 'زیوی', 'خۆڵەمێشی', 'زەرد', 'پرتەقاڵی', 'قاوەیی', 'سپی',
     ];
 
     protected static $allColorNames = [
@@ -46,6 +46,6 @@ class Color extends \Faker\Provider\Color
         'یرووزی',
         'بەهەشتی',
         'نیلی',
-        'خەڵوز'
+        'خەڵوز',
     ];
 }

@@ -10,8 +10,8 @@ class Text extends \Faker\Provider\Text
     }
 
     /**
-     *
      * @see https://ckb.wikipedia.org/wiki/%DA%BE%DB%95%D8%B1%DB%8E%D9%85%DB%8C_%DA%A9%D9%88%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86
+     *
      * @var string
      */
     protected static $baseText = <<<'EOT'
